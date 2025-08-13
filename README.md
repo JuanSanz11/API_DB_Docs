@@ -31,7 +31,7 @@ docker ps                  # Lista contenedores activos
 
 ---
 
-### 🧭 Swagger UI - Swagger UI -  Scalar
+### 🧭 Swagger UI -  Scalar - Drizzle
 
 API cuenta con documentación interactiva para explorar endpoints, probar rutas y visualizar esquemas de datos.
 
@@ -64,6 +64,10 @@ http://localhost:3333/docs
 npm i @scalar/fastify-api-reference
 http://localhost:3333/docs/
 ````
+
+docker compose up -d
+npm run dev
+npm run db:studio
 
 
 
