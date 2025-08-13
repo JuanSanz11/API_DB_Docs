@@ -2,6 +2,9 @@
 
 API construida con **Fastify**, **Drizzle ORM**, **PostgreSQL**, utilizando contenedores Docker y documentación interactiva con **Swagger UI** y **Scalar**.
 
+<img width="1643" height="878" alt="Captura de Tela 2025-08-13 às 15 08 50" src="https://github.com/user-attachments/assets/ef5a989f-15cc-4212-b4a2-0774de5adfea" />
+
+
 ---
 
 ## 📦 Tecnologías y Conceptos
